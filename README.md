@@ -2,5 +2,5 @@
 
 Languages I use by percentage:
 
-![My Language Stats](github-metrics.svg)
-
+<!-- START_LANG_STATS -->
+<!-- END_LANG_STATS -->
